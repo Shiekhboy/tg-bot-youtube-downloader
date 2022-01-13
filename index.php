@@ -8,7 +8,7 @@ require 'libs/Youtube.php';
 use Smoqadam\Telegram;
 use Smoqadam\Youtube;
 
-$api_token = 'API_TOKEN';
+$api_token = '5032432705:AAFCkQUm356R5IqkuEW4wd7viQk3gfU0Ijo';
 
 $tg = new Telegram($api_token);
 $y = new Youtube();
